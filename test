@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Adding Images</title>
+</head>
+<body>
+<center><h1>This is an image of monkey</h1>
+<center><img src="logo.jpg" height="400"/>
+</body>
+</html>
